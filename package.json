@@ -1,0 +1,33 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Node.js - Curso avançado de JavaScript",
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript"
+  ],
+  "homepage": "https://github.com/lbruss/node-js#readme",
+  "bugs": {
+    "url": "https://github.com/lbruss/node-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbruss/node-js.git"
+  },
+  "license": "MIT",
+  "author": "Bruss Loza",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "clear && echo 'Hello Script'",
+    "dev": "nodemon fundamentos/hello.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
