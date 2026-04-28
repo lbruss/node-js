@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/lbruss/node-js)
 
-# Projeto Node.js
+# Node.js
 
 Este repositório documenta meu início no aprendizado de **JavaScript** utilizando **Node.js**.
 Sou iniciante na área, então este projeto reúne exercícios simples, testes e pequenas práticas que refletem minha evolução ao longo dos estudos.
