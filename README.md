@@ -3,7 +3,7 @@
 # Node.js
 
 Este repositório documenta meu início no aprendizado de **JavaScript** utilizando **Node.js**.
-Sou iniciante na área, então este projeto reúne exercícios simples, testes e pequenas práticas que refletem minha evolução ao longo dos estudos.
+Iniciante na área, então este repositório reune projetos simples, testes e pequenas práticas.
 
 ---
 
